@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @acbarksdale
 - 👀 I’m interested in software development, instrumentation, and broadly interested in reinforcement learning
-- 🌱 I’m currently learning fundamentals, medical imaging techniques [a graduate student in a magnetic particle imaging hardware lab]
+- 🌱 I’m currently working on small software projects to learn best practices, and medical imaging techniques [a graduate student in a magnetic particle imaging hardware lab]
 
 - 📫 How to reach me: alexchristopherbarksdale@gmail.com
 
